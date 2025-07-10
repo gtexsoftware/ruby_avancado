@@ -1,2 +1,1 @@
-# ruby_avancado
-# ruby_avancado
+Repositório criado para os exercícios de Ruby Avançado do Mba.
